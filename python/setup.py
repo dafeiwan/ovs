@@ -16,6 +16,7 @@ import sys
 import setuptools
 
 VERSION = "known"
+Ver = "test"
 
 try:
     # Try to set the version from the generated ovs/version.py
